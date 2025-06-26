@@ -1,1 +1,4 @@
 # Movie-Ratings-Classification-Analysis
+
+This project has helped us determine the rating of a movie into four classifications: “Excellent”, “Good”, “Average” or “Poor”. With the help of categorical and quantitative figures like budget, genre, runtime, popularity and many more, models like KNN, random forest, logistic regression and decision tree are used to predict the ratings of a given movie.
+This project aims to classify movies into one of four rating categories: ”Excellent,” ”Good,” ”Average,” or ”Poor.” Using features such as budget, genre, runtime, and popularity metrics, we use multiple machine learning models to predict the movie rating category. The goal is to develop a system that can automate movie rating prediction based on pre-release metadata. The motivation lies in the increasing reliance on data-driven decision-making in the film industry and the need to assess film performance before market release.
